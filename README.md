@@ -1,3 +1,3 @@
 # parag-demo
 This is my first Git Repository!
-<br> Author- Parag Sarkar
+<br> Author- Parag Sarkar(Criscus)
